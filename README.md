@@ -31,8 +31,8 @@ I am a passionate **Junior AI Engineer** and a fresh **Software Engineering grad
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miss-Imtiaz&show_icons=true&theme=radical" alt="Muzdalfa's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miss-Imtiaz&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-vercel-seven.vercel.app/api?username=Miss-Imtiaz&show_icons=true&theme=radical" alt="Muzdalfa's GitHub Stats" />
+  <img src="https://github-readme-stats-vercel-seven.vercel.app/api/top-langs/?username=Miss-Imtiaz&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
